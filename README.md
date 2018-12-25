@@ -1,1 +1,4 @@
-# https-github.com-Thinkful-Ed-blog-app-challenge-starter-files
+Blog app API starter files
+==========================
+
+Starter files for blog app challenge
